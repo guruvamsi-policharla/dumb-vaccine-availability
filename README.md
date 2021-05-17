@@ -1,2 +1,6 @@
 # dumb-vaccine-availability
-Template code to check periodically for covid vaccine availability in India. Playing an alarm when found.
+Simple template code to check periodically for covid vaccine availability in India. Plays a sound when found. 
+
+API documentation can be found at https://apisetu.gov.in/public/api/cowin#/.
+
+Sound needs to be downloaded separately.
